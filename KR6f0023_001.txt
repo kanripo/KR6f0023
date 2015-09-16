@@ -1,24 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:01:08.931173
+#+DATE: 2015-08-30 20:01:09.706352
 #+TITLE: 佛說無畏授所問大乘經
 #+PROPERTY: CBETA_ID T12n0331
 #+PROPERTY: ID KR6f0023
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 331
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6f0023_T_000-0066a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0023_T_001-0066a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.331[Nos.310(28),330]¶
-
- 《佛說無畏授所問大乘經》卷上¶
+No. 331 [Nos. 310(28), 330]¶
+《佛說無畏授所問大乘經》卷上¶
 ¶
 西天譯經三藏朝奉大夫¶
-試光祿卿傳法大師賜紫¶
-沙門臣施護等奉　詔譯¶
+試光祿卿傳法大師賜紫沙門臣施護奉　詔譯¶
 
 如是我聞：
 
@@ -26,7 +24,7 @@ No.331[Nos.310(28),330]¶
 園，與大苾芻眾千二百五十人俱，皆是阿羅
 <pb:KR6f0023_T_001-0066b>¶
 漢——諸漏已盡，無復煩惱，心善解脫、慧善解脫，¶
-如大龍王，所作已辦，棄諸重擔，隨得己利，盡¶
+如大龍王，所作已辨，棄諸重擔，隨得己利，盡¶
 諸有結，正智解脫，諸心寂靜，皆到彼岸——唯一¶
 補特伽羅，所謂阿難。¶
 
