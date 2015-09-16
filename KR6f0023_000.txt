@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說無畏授所問大乘經
+#+DATE: 2015-08-30 20:01:09.178407
+#+PROPERTY: JUAN 0
