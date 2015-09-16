@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:01:08.952952
+#+DATE: 2015-08-30 20:01:10.228104
 #+TITLE: 佛說無畏授所問大乘經
 #+PROPERTY: CBETA_ID T12n0331
 #+PROPERTY: ID KR6f0023
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 331
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6f0023_T_000-0066a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0023_T_002-0067c> 
 #+PROPERTY: JUAN 2
 ¶
-
- 《佛說無畏授所問大乘經》卷中¶
+《佛說無畏授所問大乘經》卷中¶
 ¶
 西天譯經三藏朝奉大夫¶
 試光祿卿傳法大師賜紫¶
