@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:01:08.971346
+#+DATE: 2015-08-30 20:01:10.477453
 #+TITLE: 佛說無畏授所問大乘經
 #+PROPERTY: CBETA_ID T12n0331
 #+PROPERTY: ID KR6f0023
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 331
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6f0023_T_000-0066a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0023_T_003-0069a> 
 #+PROPERTY: JUAN 3
 ¶
-
- 《佛說無畏授所問大乘經》卷下¶
+《佛說無畏授所問大乘經》卷下¶
 ¶
 西天譯經三藏朝奉大夫¶
 試光祿卿傳法大師賜紫¶
@@ -72,7 +71,7 @@
 　虛空所成空自性，¶
 　焚燒破壞復還成，
 　此從何來彼何去？¶
-　溝㵎、池沼及大海，
+　溝[澗-日+月]、池沼及大海，
 　枯涸破壞彼皆同，¶
 　虛假不實貪亦然，
 　誰諸智者生愛著？¶
@@ -174,7 +173,7 @@
 　為一切有情，
 　廣施諸安樂。¶
 　我等從今日，
-　極盡其身命，¶
+　極甚其身命，¶
 　誓於此深經，
 　生最上愛樂。¶
 　由起愛樂故，
