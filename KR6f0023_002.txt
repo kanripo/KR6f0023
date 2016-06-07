@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:01:08.952952
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:55
 #+TITLE: 佛說無畏授所問大乘經
 #+PROPERTY: CBETA_ID T12n0331
 #+PROPERTY: ID KR6f0023
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 331
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6f0023_T_000-0066a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0023_T_002-0067c> 
 #+PROPERTY: JUAN 2
 ¶
-
- 《佛說無畏授所問大乘經》卷中¶
+《佛說無畏授所問大乘經》卷中¶
 ¶
 西天譯經三藏朝奉大夫¶
 試光祿卿傳法大師賜紫¶
@@ -60,9 +59,9 @@
 　如人意欲成潔淨，
 　多種修治於此身，¶
 　百轉沐浴及香塗，
-　身壞命終歸不淨。」
+　身壞命終歸不淨。」」
 #+END_VERSE
-」¶
+¶
 
 爾時，世尊復告無畏授等五百長者言：「長者¶
 當知，菩薩摩訶薩欲證阿耨多羅三藐三菩¶
@@ -167,9 +166,9 @@
 　富貴不實如夢幻，
 　愚者馳流於心意，¶
 　剎那破壞剎那成，
-　誰諸智者生貪愛？
+　誰諸智者生貪愛？」
 #+END_VERSE
-」¶
+¶
 《佛說無畏授所問大乘經》卷中
 <pb:KR6f0023_T_002-0069a>¶
 
