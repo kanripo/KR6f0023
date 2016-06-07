@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:01:09.951632
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:55
 #+TITLE: 佛說無畏授所問大乘經
 #+PROPERTY: CBETA_ID T12n0331
 #+PROPERTY: ID KR6f0023
